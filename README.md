@@ -20,8 +20,8 @@
 <!-- Certificações -->
 <div align="center">
   <h2>📜 Certificações</h2>
-  <a href="[https://www.credly.com/badges/ebeeefc3-f032-49e0-8783-b2ab09c5019e/public_url]" target="_blank">
-    <img src="[https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png]" alt="GitHub Foundations Certification" width="150px"/>
+  <a href="https://www.credly.com/badges/ebeeefc3-f032-49e0-8783-b2ab09c5019e" target="_blank">
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification" width="150px"/>
   </a>
   <p><i>GitHub Foundations Certification</i></p>
 </div>
