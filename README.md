@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Danylo93/Danylo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o João Silva, desenvolvedor apaixonado por tecnologia e café ☕.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar:
+- [LinkedIn](https://linkedin.com/in/seu-usuario)
+- [Meu portfólio](https://seusite.dev)
+
+Obrigado por visitar meu perfil! 😄
