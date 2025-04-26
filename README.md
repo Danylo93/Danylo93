@@ -10,7 +10,7 @@
 
 👨‍💻 Engenheiro DevOps e Desenvolvedor FullStack apaixonado por automação e soluções inteligentes.<br>
 🎓 Formado em Análise de Sistemas pela FAM<br>
-📚 Especializando-se em Cloud Computing e DevOps pela Faculdade Impacta<br>
+📚 Especializando-se em MBA Cloud Computing e DevOps pela Faculdade Impacta<br>
 🔧 Expertise em ambientes Cloud, automação de infraestrutura, pipelines CI/CD e desenvolvimento mobile & web<br>
 
 </div>
