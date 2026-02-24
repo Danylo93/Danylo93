@@ -77,7 +77,11 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Santander" src="https://media.licdn.com/dms/image/v2/D4D0BAQF3R0DsT8T3OQ/company-logo_200_200/company-logo_200_200/0/1719852758276/f1rstdigitalservices_logo?e=1750896000&v=beta&t=Iec7TQNaJ8U_A7yez5Z9fZ0XvJSP6heuUzs9iHIw3WQ"/>](https://www.santander.com.br/)
+**Engineer DevOps** \
+[**Argo Solutions**](https://www.useargo.com/) • Full-time \
+Linguagens & Tecnologias: `Azure Pipeline`, `Ansible`, `ArgoCD`, `ELK`, `Terraform`, `Kubernetes`, `Kibana/Grafana`\
+Projetos em destaque: [OBT], [Migração Repositório Azure]
+<br/>
 
 **Engineer DevSecOps** \
 [**F1RST Digital**](https://www.santander.com.br/) • Full-time \
@@ -85,15 +89,12 @@ Linguagens & Tecnologias: `Ansible`, `Github Actions`, `Groovy/Java`, `Typescrip
 Projetos em destaque: [Gluon], [Migração Rundeck para Ansible]
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Prefeitura" src="https://media.licdn.com/dms/image/v2/C560BAQEacQGkj7uRxQ/company-logo_200_200/company-logo_200_200/0/1630603174772?e=1750896000&v=beta&t=WaXAFVmJN8RHL5m2BRO57atmprLNC1Ph1-Y9_Jgcfz0"/>](https://prefeitura.sp.gov.br/)
 
 **Engineer Devops** \
 [**Prefeitura**](https://prefeitura.sp.gov.br/) • Contract \
 Linguagens & Tecnologias: `Ansible`, `Github Actions`, `Groovy/Java`, `Typescript`, `Terraform`, `Kubernetes`, `OpenShift`\
 Projetos em destaque: Implantação de Devops, Migração de Sistemas
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/D4D0BAQHqYanwz_LRvw/company-logo_200_200/company-logo_200_200/0/1732203550725/minsait_logo?e=1750896000&v=beta&t=9j4aJYRuBveO6ldqIy_7qH6sfPjiIrr2rAFHOk5auuw"/>](https://minsait.com/)
 
 **Software Engineer Sênior** \
 [**Minsait**](https://minsait.com.br/) • Contract \
