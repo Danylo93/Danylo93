@@ -97,7 +97,7 @@ Projetos em destaque: Implantação de Devops, Migração de Sistemas
 <br/>
 
 **Software Engineer Sênior** \
-[**Minsait**](https://minsait.com.br/) • Contract \
+[**Banco do Brasil**](https://bb.com.br/) • Contract \
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin` \
 Projetos em destaque: [App do Banco do Brasil](https://bb.com.br/)
 <br/>
